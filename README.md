@@ -32,8 +32,6 @@
 
 - IDE : Microsoft Visual Studio Community 2019 버전 16.0.3
 
-- Compiler version : _MSC_VER 1916 (표준 C언어)
-
 - 언어 : C# Microsoft .NET Framework 4.6
 
 # 구동 영상 URL
